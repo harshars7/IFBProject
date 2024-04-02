@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-02T21:06:00 IST" name="Default suite" finished-at="2024-04-02T21:06:54 IST" duration-ms="54471">
+    <groups>
+    </groups>
+    <test started-at="2024-04-02T21:06:00 IST" name="Default test" finished-at="2024-04-02T21:06:54 IST" duration-ms="54471">
+      <class name="TestPkg.IFBTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestPkg.IFBTest@38d8f54a]" started-at="2024-04-02T21:06:00 IST" name="setup" finished-at="2024-04-02T21:06:01 IST" duration-ms="1632" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="url()[pri:0, instance:TestPkg.IFBTest@38d8f54a]" started-at="2024-04-02T21:06:01 IST" name="url" finished-at="2024-04-02T21:06:05 IST" duration-ms="3534" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- url -->
+        <test-method signature="VerifyAllScenarios()[pri:0, instance:TestPkg.IFBTest@38d8f54a]" started-at="2024-04-02T21:06:05 IST" name="VerifyAllScenarios" finished-at="2024-04-02T21:06:54 IST" duration-ms="49258" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyAllScenarios -->
+      </class> <!-- TestPkg.IFBTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
